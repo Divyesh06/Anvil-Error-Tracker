@@ -104,7 +104,7 @@ dependencies:
   resolution_hints: {app_id: 4UK6WHQ6UX7AKELK, name: Material 3 Theme, package_name: m3}
   version: {version_tag: v1.2.2}
 name: Error Tracker Dashboard
-native_deps: null
+native_deps: {head_html: <link rel="stylesheet" href="_/theme/dashboard.css">}
 package_name: Error_Tracker_Dashboard
 runtime_options:
   client_version: '3'
@@ -122,5 +122,5 @@ services:
 - client_config: {allow_remember_me: true, allow_signup: true, confirm_email: false, enable_automatically: false, remember_me_days: 30, require_secure_passwords: true, use_email: true, use_google: true}
   server_config: {user_table: users}
   source: /runtime/services/anvil/users.yml
-startup: {module: Main, type: form}
+startup: {module: startup, type: module}
 startup_form: null
