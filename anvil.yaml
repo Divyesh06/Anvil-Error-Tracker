@@ -102,7 +102,7 @@ dependencies:
 - config: {}
   dep_id: dep_lin1x4oec0ytd
   resolution_hints: {app_id: 4UK6WHQ6UX7AKELK, name: Material 3 Theme, package_name: m3}
-  version: {version_tag: v1.2.2}
+  version: {version_tag: v1.2.5}
 name: Error Tracker Dashboard
 native_deps: {head_html: <link rel="stylesheet" href="_/theme/dashboard.css">}
 package_name: Error_Tracker_Dashboard
