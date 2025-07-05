@@ -10,7 +10,7 @@ class Main(MainTemplate):
         self.init_components(**properties)
         anvil.users.login_with_form(show_signup_option= True)
         self.layout.show_sidesheet = False
-        
+        print("Done")
         self.refresh_errors_count()
 
     def refresh_errors_count(self):
