@@ -32,3 +32,4 @@ You can post any queries or feature requests on the discussions - https://github
 ## How to Contribute
 
 To contribute to this library, you can create a fork of this repository, edit it in the Anvil Editor, and submit a pull request.
+You can also contribute to the Error Tracker Dependency - https://github.com/Divyesh06/Anvil-Error-Tracker-Dependency
