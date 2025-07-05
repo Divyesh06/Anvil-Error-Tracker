@@ -26,6 +26,11 @@ You need to add the following tables -
 * errors
 * timeline
 
+## How to Add Users
+
+The dashboard allows users to sign up, but keeps the account disabled by default. As the app owner, you can enable accounts that you want to allow access to by checking the enabled column on the Data Tables in Anvil Editor
+___
+
 **To get Announcements for this app, subscribe to the notifications for Discussions.**
 You can post any queries or feature requests on the discussions - https://github.com/Divyesh06/Anvil-Error-Tracker/discussions
 
