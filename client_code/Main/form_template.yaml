@@ -22,6 +22,10 @@ components_by_slot:
       name: spacer_2
       properties: {height: '5'}
       type: Spacer
+    - layout_properties: {grid_position: 'EMHJXR,TAFUNL'}
+      name: heading_2
+      properties: {text: Change}
+      type: form:dep_lin1x4oec0ytd:_Components.Heading
     - components:
       - components:
         - layout_properties: {slot: card-content-container-slot}
