@@ -40,7 +40,7 @@ To contribute to this library, you can create a fork of this repository, edit it
 
 ## Error Tracker Dependency
 
-The dashboard requires a minimal Error Tracker Dependency to be added to your main Anvil App. You can add it to your app using the App token - `TE6Q6FOVYDAFQFVB`
+The dashboard requires a minimal Error Tracker Dependency to be added to your main Anvil App for tracking errors. You can add it to your app using the App token - `TE6Q6FOVYDAFQFVB`
 
 Clone Link - https://anvil.works/build#clone:TE6Q6FOVYDAFQFVB=ELBOEQAVEFDO3MGSENOQDUFU
 
