@@ -45,3 +45,5 @@ The dashboard requires a minimal Error Tracker Dependency to be added to your ma
 Clone Link - https://anvil.works/build#clone:TE6Q6FOVYDAFQFVB=ELBOEQAVEFDO3MGSENOQDUFU
 
 Github Repo - https://github.com/Divyesh06/Error-Tracker-Dependency-anvil
+
+Follow the guide at https://github.com/Divyesh06/Error-Tracker-Dependency-anvil/blob/master/README.md to implement error tracking
