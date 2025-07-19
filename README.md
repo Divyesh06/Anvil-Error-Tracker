@@ -37,4 +37,11 @@ You can post any queries or feature requests on the discussions - https://github
 ## How to Contribute
 
 To contribute to this library, you can create a fork of this repository, edit it in the Anvil Editor, and submit a pull request.
-You can also contribute to the Error Tracker Dependency - https://github.com/Divyesh06/Anvil-Error-Tracker-Dependency
+
+## Error Tracker Dependency
+
+The dashboard requires a minimal Error Tracker Dependency to be added to your main Anvil App. You can add it to your app using the App token - `TE6Q6FOVYDAFQFVB`
+
+Clone Link - https://anvil.works/build#clone:TE6Q6FOVYDAFQFVB=ELBOEQAVEFDO3MGSENOQDUFU
+
+Github Repo - https://github.com/Divyesh06/Error-Tracker-Dependency-anvil
